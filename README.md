@@ -1,5 +1,5 @@
 # DSA-with-Java-
 This is my DSA with Java Repository.
 <br>
-All DSA Coding problems.
+All DSA coding problems.
 
